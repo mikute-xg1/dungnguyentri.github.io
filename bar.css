@@ -15,7 +15,7 @@
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 25x;
   font-family:Arial;
 }
 
@@ -32,8 +32,8 @@
 .lefttab {
   background-color: #333;
   overflow: hidden;
-  width : 125px;
-  height : 116px ;
+  width : 151px;
+  height : 133px ;
 }
 
 .lefttab a {
@@ -42,7 +42,7 @@
   text-align: center;
   padding: 8px 10px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 25px;
   font-family:Arial;
 }
 
